@@ -87,11 +87,11 @@ AI-powered memory and intelligent interaction platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-code-arch&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-code-arch&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashutosh-code-arch&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ashutosh-code-arch&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
