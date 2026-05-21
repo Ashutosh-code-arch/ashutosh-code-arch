@@ -87,20 +87,6 @@ AI-powered memory and intelligent interaction platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ashutosh-code-arch&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" 
-    height="180em" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Ashutosh-code-arch&theme=transparent" 
-    height="180em" 
-  />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashutosh-code-arch&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -146,11 +132,6 @@ AI-powered memory and intelligent interaction platform.
   </a>
 </p>
 
----
-
-## 📈 Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-code-arch&theme=github-compact)](https://github.com/Ashutosh-code-arch)
 ---
 
 ## 💭 Developer Quote
