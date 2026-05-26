@@ -38,7 +38,7 @@ Full Stack Developer • MERN Stack • AI/ML Explorer • Real-Time Systems Bui
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastApi,prisma,firebase,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,firebase,postgres,mongodb,redis" />
 </p>
 
 ### Real-Time & DevOps
