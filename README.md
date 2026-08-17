@@ -13,7 +13,7 @@ Full Stack Developer • MERN Stack • AI/ML Explorer • Real-Time Systems Bui
 
 ## 🚀 About Me
 
-- 🔭 Currently building **CodeQuest** — a real-time collaborative coding and interview platform
+- 🔭 Currently building **Praxis** — A durable, replayable, policy-governed runtime for multi-agent workflows.
 - 🌱 Learning and exploring:
   - System Design
   - DevOps & Docker
