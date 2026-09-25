@@ -84,18 +84,6 @@ AI-powered memory and intelligent interaction platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashutosh-code-arch&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-code-arch&theme=tokyo-night" />
-</p>
-
----
-
 ## 🧩 Currently Working On
 
 - 🔥 Advanced real-time collaboration features
