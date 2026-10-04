@@ -1,133 +1,121 @@
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">
-Full Stack Developer • MERN Stack • AI/ML Explorer • Real-Time Systems Builder
-</h3>
+<p align="center">
+  <img src="./assets/header.svg" alt="Ashutosh — Software Engineer" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/Ashutosh-code-arch">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-Time+Applications;AI%2FML+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
-  </a>
+  <img src="https://img.shields.io/badge/Developer%20Tools-0EA5E9?style=flat-square" alt="Developer Tools" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-2563EB?style=flat-square" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/AI%20Reliability-7C3AED?style=flat-square" alt="AI Reliability" />
+  <img src="https://img.shields.io/badge/Observability-0891B2?style=flat-square" alt="Observability" />
 </p>
 
----
+I like building software around the places where systems become hard to reason about: concurrent changes, durable execution, real-time collaboration, state, and failure.
 
-## 🚀 About Me
-
-- 🔭 Currently building **Praxis** — A durable, replayable, policy-governed runtime for multi-agent workflows.
-- 🌱 Learning and exploring:
-  - System Design
-  - DevOps & Docker
-  - AI/ML Integration
-  - WebRTC & Real-Time Architectures
-- 💡 Interested in:
-  - Real-time collaboration systems
-  - Scalable backend architectures
-  - Developer tools
-  - AI-powered applications
-- ⚡ Love building products from idea → production
-- 🎯 Goal: Become highly skilled in **Frontend, Backend, Web3, and AI/ML**
+The goal is usually the same — **make the hidden behavior visible, reproducible, and useful to an engineer.**
 
 ---
 
-## 🛠️ Tech Stack
+## `01 / selected work`
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,tailwind,html,css,nextjs" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,firebase,postgres,mongodb,redis" />
-</p>
+### [ProofMerge](https://github.com/Ashutosh-code-arch/proof-merge)
 
-### Real-Time & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,socketio" />
-</p>
+**When branches pass alone and fail together.**
 
-### AI / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
+An integration acceptance gate for concurrent changes. ProofMerge assembles candidate branches in an isolated worktree, verifies the combined application, and returns `PASS`, `WARN`, or `BLOCK` with evidence.
 
----
+`Go` · `GitHub Actions` · `Docker` · `Playwright`
 
-## 📌 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### 🚀 CodeQuest
-Real-time collaborative coding and interview practice platform.
+### [Praxis](https://github.com/Ashutosh-code-arch/praxis)
 
-#### Features
-- Real-time collaborative Monaco editor
-- Socket.IO live synchronization
-- Role-based authentication
-- Coding rooms & interview practice
-- Question management system
-- Live code execution
-- Performance analytics
-- Scalable MERN monorepo architecture
+**Agent workflows should be replayable, traceable, and governed.**
 
-#### Tech Used
-`React` `TypeScript` `Node.js` `Express` `Socket.IO` `Prisma` `PostgreSQL` `Firebase`
+A durable runtime for multi-agent LLM workflows built around deterministic execution, OpenTelemetry traces, capability-scoped tools, evaluation, and replay.
 
----
+`Python` · `Temporal` · `OpenTelemetry` · `FastAPI`
 
-### 🧠 Memory AI
-AI-powered memory and intelligent interaction platform.
+</td>
+</tr>
 
-#### Features
-- AI-assisted workflows
-- Memory-based interaction systems
-- Backend architecture experimentation
-- Modern full-stack setup
+<tr>
+<td width="50%" valign="top">
 
----
+### [CodeQuest](https://github.com/Ashutosh-code-arch/codequest)
 
-## 🧩 Currently Working On
+**Collaborative coding without the tab-switching tax.**
 
-- 🔥 Advanced real-time collaboration features
-- 🐳 Dockerized full-stack architecture
-- ⚙️ CI/CD pipelines
-- ☁️ Production deployment workflows
-- 🧠 AI integrations in web applications
+Real-time coding rooms with shared Monaco editing, Yjs synchronization, Socket.IO, WebRTC video, Judge0 execution, and multi-language problem solving.
+
+`TypeScript` · `React` · `Yjs` · `WebRTC` · `Judge0`
+
+</td>
+<td width="50%" valign="top">
+
+### [AtlasExchange](https://github.com/Ashutosh-code-arch/AtlasExchange)
+
+**Market mechanics instead of another CRUD demo.**
+
+A full-stack exchange simulator with a price-time matching engine, simulated wallets, double-entry accounting, WebSocket updates, and live reference charts.
+
+`TypeScript` · `React` · `PostgreSQL` · `WebSocket`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+## `02 / how I think about software`
 
-- Kubernetes
-- Microservices
-- Distributed Systems
-- Advanced System Design
-- AI Engineering Workflows
+```text
+reproducible failure   > mysterious failure
+evidence               > assumptions
+small interfaces       > framework magic
+explicit state         > invisible state
+boring reliability     > clever fragility
+```
 
----
-
-## 🤝 Open Source Goals
-
-- Contribute to impactful open-source projects
-- Build developer tools
-- Share knowledge and learning publicly
+I am most interested in the point where a useful demo has to become a system you can **inspect, replay, debug, and trust**.
 
 ---
 
-## 📫 Connect With Me
+## `03 / toolbox`
 
 <p>
-  <a href="https://github.com/Ashutosh-code-arch">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Temporal-141414?style=flat-square" alt="Temporal" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 ---
 
-## 💭 Developer Quote
+## `04 / current vector`
 
-> “Great software is built through consistency, iteration, and curiosity.”
+```text
+developer infrastructure
+distributed systems
+AI reliability
+runtime design
+observability
+collaborative software
+```
 
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/Ashutosh-code-arch">Ashutosh Kumar</a>
-</p>
+<sub>Building things that are useful to inspect, reason about, and trust.</sub>
